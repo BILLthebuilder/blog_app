@@ -1,2 +1,2 @@
 # flutter-authentication
-An authentication system built with flutter and Mysql
+A Flutter blogging application the consumes the rest api [here](https://github.com/BILLthebuilder/auth-api)
